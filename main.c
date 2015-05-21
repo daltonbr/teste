@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Teste\n");    
+	printf("Teste\n");    // comentario inutil
     return 0;
 }
